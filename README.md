@@ -21,4 +21,4 @@ En el marco de la materia Data Mining, se desarrolló un trabajo práctico cuyo 
 - **Transformaciones Logarítmicas**: Aplicación de transformaciones logarítmicas a variables con distribuciones sesgadas.
 
 ## Resultados y Conclusiones.
-Los resultados y las mejoras obtenidas a través de las distintas transformaciones de datos se irán documentando a medida que avancemos en la competencia. Este enfoque me permitio observar de manera clara cómo la calidad y preparación de los datos pueden influir significativamente en el rendimiento de los modelos predictivos.
+Los resultados y las mejoras obtenidas a través de las distintas transformaciones de datos se fue documentando a medida que avance en la competencia. Este enfoque me permitio observar de manera clara cómo la calidad y preparación de los datos pueden influir significativamente en el rendimiento de los modelos predictivos.
