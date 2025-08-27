@@ -4,7 +4,7 @@
 As part of the Data Mining course, we developed a practical project aimed at performing a data transformation analysis to predict the prices of parking spaces, apartments, and houses in the City of Buenos Aires (CABA), Argentina, using Random Forest.  
 The main goal of this exercise was to focus on data preparation and transformation rather than on heavy model parameter tuning, and to analyze how these preprocessing steps can improve or worsen the predictive score.  
 
-As an evaluation method, a Kaggle competition was created ([link](https://www.kaggle.com/competitions/fcen-dm-2024-prediccin-precio-de-propiedades)) where we uploaded our results. The competition provides the datasets used for both training and prediction.  
+As an evaluation method, a Kaggle competition was created (https://www.kaggle.com/competitions/fcen-dm-2024-prediccin-precio-de-propiedades) where we uploaded our results. The competition provides the datasets used for both training and prediction.  
 
 ## Methodology  
 
